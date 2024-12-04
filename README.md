@@ -40,6 +40,7 @@ func main() {
 |NetBSD|yes|yes|no|no|yes|no|
 |OpenBSD|yes|yes|no|no|no|no|
 |Windows|no|yes|no|yes|no|no|
+|Solaris/illumos|no|yes|no|no|no|no|
 
 *1: unavailable without cgo
 
